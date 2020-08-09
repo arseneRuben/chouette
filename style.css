@@ -26,7 +26,9 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
-
+.img-center {
+    margin: auto;
+}
 .bloc {
     width: 100%;
     clear: both;
@@ -775,7 +777,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color:  white!important;
 }
 
 .btn-atomic-tangerine {
@@ -822,7 +824,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
